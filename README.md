@@ -12,4 +12,4 @@ Alberto Guillen Martin
 David Ken
 Niobe Claveria
 Oussama Belhadj Benziane
-Victor Barrio Sarraseca
+Elena Jiménez

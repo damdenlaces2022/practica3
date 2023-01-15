@@ -10,10 +10,10 @@ Alberto Guillen Martin
 Ivan Fernandez Campos
 Alberto Guillen Martin
 David Ken
-Niobe Claveria
 Oussama Belhadj Benziane
 Elena Jiménez
 Lucas Colban
 Raúl Gutierrez Torres
 Marco Zúñiga
 David Villagrasa
+Diego García

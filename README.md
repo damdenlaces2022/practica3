@@ -10,7 +10,6 @@ Alberto Guillen Martin
 Ivan Fernandez Campos
 Alberto Guillen Martin
 David Ken
-Niobe Claveria
 Oussama Belhadj Benziane
 Elena Jiménez
 Lucas Colban
